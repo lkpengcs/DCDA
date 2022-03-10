@@ -2,7 +2,7 @@
 
 Pytorch implementation for our unsupervised domain adaptation framework with application to retinal vessel segmentation. We use style transfer and collaborative consistency learning to train a segmentation model on the target domain.
 
-![image-20220310110629292](C:\Users\AMD 5600X\AppData\Roaming\Typora\typora-user-images\image-20220310110629292.png)
+![](D:\isbi2022\model.png)
 
 ## Paper
 
@@ -20,7 +20,7 @@ Please cite our [paper](https://arxiv.org/abs/2201.04812) if you find the code u
 
 ## Example Results
 
-![image-20220310110143526](C:\Users\AMD 5600X\AppData\Roaming\Typora\typora-user-images\image-20220310110143526.png)
+![](D:\isbi2022\result.png)
 
 ## Usage
 
