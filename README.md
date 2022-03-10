@@ -2,7 +2,7 @@
 
 Pytorch implementation for our unsupervised domain adaptation framework with application to retinal vessel segmentation. We use style transfer and collaborative consistency learning to train a segmentation model on the target domain.
 
-![](D:\isbi2022\model.png)
+![image](https://github.com/lkpengcs/DCDA/blob/main/figs/model.png)
 
 ## Paper
 
@@ -20,7 +20,7 @@ Please cite our [paper](https://arxiv.org/abs/2201.04812) if you find the code u
 
 ## Example Results
 
-![](D:\isbi2022\result.png)
+![image](https://github.com/lkpengcs/DCDA/blob/main/figs/result.png)
 
 ## Usage
 
